@@ -5,6 +5,14 @@ Aplicação desktop em Python que utiliza IA para buscar e consolidar estatísti
 A interface permite selecionar times, competição, janela de jogos e filtros, enviando a solicitação para um modelo de linguagem via API Groq.
 
 ---
+<img width="1031" height="937" alt="image" src="https://github.com/user-attachments/assets/0ef90c08-85e1-4f08-9bf8-f63812c81b37" />
+
+<img width="1022" height="937" alt="image" src="https://github.com/user-attachments/assets/f794101c-4878-46b3-8b45-33782c71c3e4" />
+
+<img width="1029" height="932" alt="image" src="https://github.com/user-attachments/assets/9ab0db21-54c5-461a-a3f9-d14a00007f1c" />
+
+
+
 
 ## Funcionalidades
 
