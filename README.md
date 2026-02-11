@@ -1,4 +1,4 @@
-# Beteste – Estatísticas de Futebol 
+#  Estatísticas de Futebol 
 
 Aplicação desktop em Python que utiliza IA para buscar e consolidar estatísticas reais de partidas de futebol em formato JSON.
 
